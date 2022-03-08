@@ -15,13 +15,9 @@
         name: docker
         state: started
         enabled: yes
-    - name: Install docker-py python module
-      apt:
-        name: docker-py
-        state: present
     - name: Start the container
       docker_container:
-        name: hariapp
+        name: webapp
         image: "shramik999/webapp:{{DOCKER_TAG}}"
         state: started
         published_ports:
