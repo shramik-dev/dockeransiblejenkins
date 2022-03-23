@@ -1,4 +1,5 @@
 <html>
+  <title>Rockeon</title>
 <body>
 <h2 stype="colour: red">Deployed using Jenkins, Ansible!! 5</h2>
   <h2>HTML Image</h2>
