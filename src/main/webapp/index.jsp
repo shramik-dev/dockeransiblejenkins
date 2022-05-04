@@ -1,7 +1,7 @@
 <html>
-  <title>Rockeon</title>
+  <title>BookMyShow</title>
 <body>
-<h2 stype="colour: Blue">Deployed using Jenkins, Ansible!! 6</h2>
+<h2 stype="colour: Blue">Book your ticket here</h2>
   
 </body>
 </html>
